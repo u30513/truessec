@@ -1,55 +1,64 @@
+<div align="center">
+
 # TRUESSEC.eu
 
-**TRU**st-**E**nhancing certified **S**olutions for **SE**curity and protection
-of **C**itizens' rights in digital Europe
+**TRUst-Enhancing certified Solutions for SEcurity and protection of
+Citizens' rights in digital Europe**
 
-> **[→ Open the assessment tool](https://projectstrialr.shinyapps.io/questionnaireDraft/)**
-> - the instrument presented to the European Commission.
+*A multidisciplinary labelling proposal for ICT products and services, and*
+*the instrument developed to assess against it.*
+
+<br/>
+
+[![Assessment tool](https://img.shields.io/badge/assessment%20tool-open-2E7D86?style=flat-square)](https://projectstrialr.shinyapps.io/questionnaireDraft/)
+![Scope](https://img.shields.io/badge/scope-European-004E89?style=flat-square)
+![R](https://img.shields.io/badge/R-Shiny-276DC3?style=flat-square&logo=r&logoColor=white)
+
+</div>
 
 ---
 
-## The problem with trust labels
+> Public documentation of the project. The implementation is private.
 
-European citizens are asked to trust ICT products and services constantly, and
-the market's answer has been labels - a great many of them. The result is the
-opposite of what labelling is supposed to achieve: when there are dozens of
-certifications, seals and marks, each with its own scope and rigour, a label
-stops functioning as a signal. A citizen cannot reasonably distinguish a
-meaningful certification from a logo bought for marketing purposes.
+## 📌 The problem
 
-TRUESSEC.eu addressed that directly. Rather than adding another label to the
-pile, the project ran a series of studies across different fields in order to
-define a **labelling proposal** for companies offering ICT products and
-services - one that could plausibly be perceived as trustworthy by European
-citizens, and that would be distinguishable from existing labels precisely
-because of how it was constructed.
+European citizens are asked continuously to place trust in ICT products and
+services, and the response of the market has been certification labels in
+considerable number. The effect is the inverse of the intention: where dozens
+of seals and marks coexist, each with its own scope and degree of rigour, a
+label ceases to function as a signal. A citizen cannot reasonably distinguish
+a substantive certification from one obtained for marketing purposes.
 
-## Why multidisciplinary
+---
 
-The differentiator is the breadth of what the proposal accounts for. A label
-that only certifies technical security properties misses the reasons citizens
-actually distrust digital services - handling of personal data, fairness,
-transparency, recourse when something goes wrong, and whether rights
-recognised in European law are respected in practice. Those are legal,
+## 🧩 The approach
+
+Rather than introducing a further label, TRUESSEC.eu conducted a series of
+studies across several fields in order to define a labelling proposal for
+companies providing ICT products and services: one capable of being perceived
+as trustworthy by European citizens, and distinguishable from existing labels
+by the manner of its construction.
+
+The distinguishing property is breadth. A label certifying technical security
+properties alone does not address the grounds on which citizens withhold
+trust from digital services, namely the handling of personal data, fairness,
+transparency, the recourse available when something fails, and whether rights
+established in European law are respected in practice. These are legal,
 ethical and social questions as much as technical ones, and they do not
-reduce to a penetration-test result.
+reduce to the result of a penetration test.
 
-TRUESSEC.eu therefore drew on security engineering, law, ethics and social
-research together, on the argument that a trust label which ignores any one of
-those dimensions will not earn trust - and, worse, may launder the absence of
-it.
-
-## The assessment tool
-
-The linked application is the assessment instrument developed in that work and
-**presented to the European Commission**. It operationalises the labelling
-criteria as a structured questionnaire, so that the proposal could be
-evaluated against real products and services rather than discussed in the
-abstract - turning a set of multidisciplinary criteria into something a
-company can actually be assessed against.
-
-**[→ projectstrialr.shinyapps.io/questionnaireDraft](https://projectstrialr.shinyapps.io/questionnaireDraft/)**
+The proposal therefore draws upon security engineering, law, ethics and
+social research in combination, on the argument that a trust label neglecting
+any one of those dimensions will not earn trust, and may serve to obscure its
+absence.
 
 ---
 
-*Public write-up. Implementation kept private.*
+## 🛠 The assessment tool
+
+The linked application is the assessment instrument developed in this work and
+presented to the European Commission. It renders the labelling criteria as a
+structured questionnaire, so that the proposal could be evaluated against
+actual products and services rather than discussed in the abstract.
+
+➡️ **[Open the assessment tool](https://projectstrialr.shinyapps.io/questionnaireDraft/)**
