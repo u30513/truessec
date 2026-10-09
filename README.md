@@ -18,7 +18,7 @@ Citizens' rights in digital Europe**
 
 ---
 
-> Public documentation of the project. The implementation is private.
+> Public documentation of the project. The code is available upon request.
 
 ## 📌 The problem
 
