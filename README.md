@@ -10,9 +10,8 @@ Citizens' rights in digital Europe**
 
 <br/>
 
-[![Assessment tool](https://img.shields.io/badge/assessment%20tool-open-2E7D86?style=flat-square)](https://projectstrialr.shinyapps.io/questionnaireDraft/)
-![Scope](https://img.shields.io/badge/scope-European-004E89?style=flat-square)
-![R](https://img.shields.io/badge/R-Shiny-276DC3?style=flat-square&logo=r&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-447099?style=flat-square&logo=rstudio&logoColor=white)
 
 </div>
 
@@ -20,7 +19,7 @@ Citizens' rights in digital Europe**
 
 > Public documentation of the project. The code is available upon request.
 
-## 📌 The problem
+## 📌 Introduction
 
 European citizens are asked continuously to place trust in ICT products and
 services, and the response of the market has been certification labels in
