@@ -17,8 +17,6 @@ Citizens' rights in digital Europe**
 
 ---
 
-> Public documentation of the project. The code is available upon request.
-
 ## 📌 Introduction
 
 European citizens are asked continuously to place trust in ICT products and
